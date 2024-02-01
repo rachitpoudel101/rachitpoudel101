@@ -7,6 +7,6 @@
 </br>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,rails,ruby,react,bootstrap,illustrator,ps&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,bootstrap,php,postgres,html,css,python,c,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </div>
