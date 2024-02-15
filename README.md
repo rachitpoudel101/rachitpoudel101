@@ -10,11 +10,4 @@
     <img src="https://skillicons.dev/icons?i=js,bootstrap,php,postgres,html,css,python,c,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </div>
-<div align="center">
-  <h2>📫 Let's Connect</h2>
-  <p>Feel free to connect with me on various platforms:</p>
-
-  [![LinkedIn]([https://www.linkedin.com/in/rachit-poudel-498a4b2aa/)
-  [![Facebook]([https://www.facebook.com/rachit.poudel.50)
-</div>
 
