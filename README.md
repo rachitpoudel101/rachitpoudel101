@@ -8,7 +8,7 @@
 <div align="center">
   <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,js,django,php,html,css,c,&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,django,php,html,css,c,&theme=light" alt="Tech Stack" />
   </a>
 </div>
 
