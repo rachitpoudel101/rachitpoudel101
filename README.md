@@ -1,4 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=70&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1125&height=320&lines=Hello%2C+Everyone%F0%9F%91%8B;I'm+Rachit+Poudel." alt="Typing SVG" /></a>
+## About Me
+I'm a final year Computer Science student at University of Wolverhampton. I love coding in Python Djnago. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
+<br>
+<hr>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rachitpoudel101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
