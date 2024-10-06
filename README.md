@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=70&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1125&height=320&lines=Hello%2C+Everyone%F0%9F%91%8B;I'm+Rachit+Poudel." alt="Typing SVG" /></a>
 ## About Me
-I'm a final year Computer Science student at University of Wolverhampton. I love coding in Python Djnago. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
+I'm a final-year Computer Science student at the University of Wolverhampton. I love coding in Python Djnago. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
 <br>
 <hr>
 
@@ -58,7 +58,17 @@ I'm a final year Computer Science student at University of Wolverhampton. I love
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,,&theme=dark" alt="Editor / IDE I ♥ "/>
   </a>
 </div>
-
+<div>
+  <h1>Certifications</h1>
+  Django tutorial
+  <br>
+  (https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg)
+  <br>
+  <br>
+  Python Libraries for Data-Science
+  <br>
+  (https://github.com/rachitpoudel101/Certifications/blob/main/Python%20kib%20for%20data%20science.jpg)
+</div>
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
