@@ -58,17 +58,18 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,,&theme=dark" alt="Editor / IDE I ♥ "/>
   </a>
 </div>
-<div>
-  <h1>Certifications</h1>
-  Django tutorial
-  <br>
-  (https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg)
-  <br>
-  <br>
-  Python Libraries for Data-Science
-  <br>
-  (https://github.com/rachitpoudel101/Certifications/blob/main/Python%20kib%20for%20data%20science.jpg)
+<div align="center">
+  <h2>Certifications</h2>
+  <h1>Here are some of my recent certifications:</h1>
+  
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg" alt="Django Tutorial" width="500" />
+    <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Python kib for data science.jpg" alt="Python lib for data science" width="500" />
+  </div>
+  
+  <p>More certifications to come...</p>
 </div>
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
