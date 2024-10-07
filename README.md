@@ -8,7 +8,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 ![](https://github-readme-stats.vercel.app/api?username=rachitpoudel101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=rachitpoudel101" height="180" alt="languages graph"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&theme=dark&hide_border=true" height="180" alt="languages graph"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rachitpoudel101&theme=highcontrast&border_radius=5.1" alt="GitHub Streak" /></a>
 </div>
 </br>
 <div align="center">
