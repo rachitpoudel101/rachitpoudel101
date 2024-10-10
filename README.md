@@ -61,11 +61,13 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   <h2>Certifications</h2>
   <h1>Here are some of my recent certifications:</h1>
   
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg" alt="Django Tutorial" width="500" />
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Python kib for data science.jpg" alt="Python lib for data science" width="500" />
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Data Science And Analytics.png" alt="Data Science And Analytics" width="500" />
-  </div>
+    <!-- You can add a fourth image if you want to complete the 2x2 grid -->
+</div>
+
   
   <p>More certifications to come...</p>
 </div>
