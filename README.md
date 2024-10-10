@@ -7,7 +7,9 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 # 📊 GitHub Stats:
 <table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en" alt="rachitpoudel101" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&" alt="rachitpoudel101" /></picture></td></tr></table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=rachitpoudel101" height="180" alt="languages graph"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitpoudel101&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitpoudel101" alt="Rachit" /></a> </p>
 <div align="center">
   <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
   <a href="https://skills.thijs.gg" target="_blank">
