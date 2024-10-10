@@ -64,6 +64,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg" alt="Django Tutorial" width="500" />
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Python kib for data science.jpg" alt="Python lib for data science" width="500" />
+    <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Data Science And Analytics.png" alt="Data Science And Analytics" width="500" />
   </div>
   
   <p>More certifications to come...</p>
