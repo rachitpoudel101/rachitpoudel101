@@ -65,6 +65,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Django_tutorial.jpg" alt="Django Tutorial" width="500" />
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Python kib for data science.jpg" alt="Python lib for data science" width="500" />
     <img src="https://github.com/rachitpoudel101/Certifications/blob/main/Data Science And Analytics.png" alt="Data Science And Analytics" width="500" />
+    <img src="https://github.com/rachitpoudel101/Certifications/blob/main/C%23.png" alt="C#" width="500" />
     <!-- You can add a fourth image if you want to complete the 2x2 grid -->
 </div>
 
