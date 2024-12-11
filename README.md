@@ -12,7 +12,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   <tr style="border: none">
     <td style=" border: none">
       <picture style=" border: none">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en&theme=white">
         <img src="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en" alt="rachitpoudel101" />
       </picture>
     </td>
