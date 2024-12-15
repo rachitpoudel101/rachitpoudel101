@@ -16,11 +16,6 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
         <img src="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en" alt="rachitpoudel101" />
       </picture>
     </td>
-    <td style="padding-left: 20px;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=rachitpoudel101" alt="GitHub Streak" />
-      </a>
-    </td>
   </tr>
 </table>
 
