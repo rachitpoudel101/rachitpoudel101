@@ -19,7 +19,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&theme=light&hide_border=true" height="180" alt="languages graph"  />
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=rachitpoudel101" height="180" alt="languages graph"/>
