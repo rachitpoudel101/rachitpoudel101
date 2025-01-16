@@ -89,4 +89,5 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 </div>
 
 - 📫 How to reach me **[poudelrachit4@gmail.com](mailto:poudelrachit4@gmail.com)**
+**[rachit300poudel@gmail.com](mailto:rachit300poudel@gmail.com)**
 - ⚡ Fun fact:  **Every bug you fix is a step closer to mastery!**"
