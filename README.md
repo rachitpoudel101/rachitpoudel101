@@ -8,7 +8,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 <hr>
 
 # 📊 GitHub Stats:
-<table border="0" style="border: none">
+<table border="0" style="border: red">
   <tr style="border: none">
     <td style=" border: none">
       <picture style=" border: none">
