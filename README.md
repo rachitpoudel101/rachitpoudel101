@@ -36,7 +36,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 ## Languages and Tools:
 <div align="left">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,js,django,php,html,css,c&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,django,php,html,css,c,vue&theme=light" alt="Tech Stack" />
   </a>
 </div>
 
