@@ -2,36 +2,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=70&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1125&height=320&lines=Hello%2C+Everyone%F0%9F%91%8B;I'm+Rachit+Poudel." alt="Typing SVG" />
 </a>
 
+
 ## About Me
 I'm a final-year Computer Science student at the University of Wolverhampton. I love coding in Python and Django. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
 <br>
 <hr>
 
 # 📊 GitHub Stats:
-<table border="0" style="border: red">
-  <tr style="border: none">
-    <td style=" border: none">
-      <picture style=" border: none">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en&theme=white">
-        <img src="https://github-readme-stats.vercel.app/api?username=rachitpoudel101&show_icons=true&locale=en" alt="rachitpoudel101" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&theme=windows-dark&hide_border=true" alt="Streak Stats">
+    <p></p>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitpoudel101&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/rachitpoudel101">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachitpoudel101&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachitpoudel101&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitpoudel101&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachitpoudel101&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitpoudel101&theme=transparent" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rachitpoudel101&theme=github"/>
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=rachitpoudel101" height="180" alt="languages graph"/>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rachitpoudel101&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit" /> 
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachitpoudel101" alt="Rachit" />
-  </a>
-</p>
 
 ## Languages and Tools:
 <div align="left">
@@ -87,7 +85,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   </div>
   <p>More certifications to come...</p>
 </div>
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 - 📫 How to reach me **[poudelrachit4@gmail.com](mailto:poudelrachit4@gmail.com)**
 **[rachit300poudel@gmail.com](mailto:rachit300poudel@gmail.com)**
 - ⚡ Fun fact:  **Every bug you fix is a step closer to mastery!**"
