@@ -7,7 +7,8 @@
 I'm a final-year Computer Science student at the University of Wolverhampton. I love coding in Python and Django. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
 <br>
 <hr>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rachitpoudel101&theme=github"/>
 # 📊 GitHub Stats:
 <div align="center">
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitpoudel101&theme=windows-dark&hide_border=true" alt="Streak Stats">
@@ -24,8 +25,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachitpoudel101&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitpoudel101&theme=transparent" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rachitpoudel101&theme=github"/>
+
 
 
 
