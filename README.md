@@ -84,6 +84,7 @@ I'm a final-year Computer Science student at the University of Wolverhampton. I 
   <p>More certifications to come...</p>
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 - 📫 How to reach me **[poudelrachit4@gmail.com](mailto:poudelrachit4@gmail.com)**
 **[rachit300poudel@gmail.com](mailto:rachit300poudel@gmail.com)**
 - ⚡ Fun fact:  **Every bug you fix is a step closer to mastery!**"
